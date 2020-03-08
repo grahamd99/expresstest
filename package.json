@@ -1,0 +1,18 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "just a test express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "this is the git repo"
+  },
+  "author": "Graham Dodsworth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
